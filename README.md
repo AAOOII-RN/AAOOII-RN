@@ -8,3 +8,4 @@
 
 Lua w/ Love2d
 1. Bubble Generator - https://github.com/AAOOII-RN/Bubble-Generator
+2. Wish upon a star - https://github.com/AAOOII-RN/Wish_upon_a_star
