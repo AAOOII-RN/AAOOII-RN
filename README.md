@@ -9,3 +9,9 @@
 Lua w/ Love2d
 1. Bubble Generator - https://github.com/AAOOII-RN/Bubble-Generator
 2. Wish upon a star - https://github.com/AAOOII-RN/Wish_upon_a_star
+
+# Future Projects
+1. A day in life as a bee
+2. Woe is keyboard
+3. Helping Towards Master is Love
+4. "A Game of Love"
