@@ -13,5 +13,5 @@ Lua w/ Love2d
 # Future Projects
 1. A day in life as a bee
 2. Woe is keyboard
-3. Helping Towards Master is Love
+3. **H**elping **T**owards **M**aker is **L**ove
 4. "A Game of Love"
