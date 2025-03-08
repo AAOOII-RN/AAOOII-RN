@@ -11,7 +11,7 @@ Lua w/ Love2d
 2. Wish upon a star - https://github.com/AAOOII-RN/Wish_upon_a_star
 
 # Future Projects
-1. A day in life as a bee
-2. Woe is keyboard
+1. A Day in Life as a Bee
+2. Oh, Woe is Keyboard
 3. **H**elping **T**owards **M**aker is **L**ove
 4. "A Game of Love"
