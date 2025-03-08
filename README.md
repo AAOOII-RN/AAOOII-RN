@@ -15,5 +15,5 @@ Lua w/ Love2d
 2. Oh, Woe is Keyboard
 3. **H**elping **T**he **M**aker is **L**ove
 4. "A Game of Love" by hcsf visualized
-5. Nöbela
-6. Bible Verse Generator
+5. Nöbela lua library
+6. Bible Verse Generator Extension
