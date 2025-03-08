@@ -13,5 +13,5 @@ Lua w/ Love2d
 # Future Projects
 1. A Day in Life as a Bee
 2. Oh, Woe is Keyboard
-3. **H**elping **T**owards **M**aker is **L**ove
+3. **H**elping **T**he **M**aker is **L**ove
 4. "A Game of Love" by hcsf visualized
