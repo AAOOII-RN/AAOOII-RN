@@ -6,7 +6,7 @@
 
 # Finished Projects
 
-Lua w/ Love2d
+##### LÖVE2D
 1. [Bubble Generator](https://github.com/AAOOII-RN/Bubble-Generator)
 2. [Wish upon a star](https://github.com/AAOOII-RN/Wish_upon_a_star)
 3. [Pong in Love2d with customized bot](https://github.com/AAOOII-RN/Pong_Love2d)
