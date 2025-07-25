@@ -7,10 +7,11 @@
 # Finished Projects
 
 ##### LÖVE2D
-1. [Bubble Generator](https://github.com/AAOOII-RN/Bubble-Generator)
-2. [Wish upon a star](https://github.com/AAOOII-RN/Wish_upon_a_star)
-3. [Pong in Love2d with customized bot](https://github.com/AAOOII-RN/Pong_Love2d)
-4. [Island generator](https://github.com/AAOOII-RN/Island-Generator.git)
+1. [Cloudy Skies ☁️⛅](https://github.com/AAOOII-RN/Cloudy-Skies)
+1. [Island generator 🏝️🗾](https://github.com/AAOOII-RN/Island-Generator.git)
+1. [Pong in Love2d with customized bot 🏓🤖](https://github.com/AAOOII-RN/Pong_Love2d)
+1. [Wish upon a star ✨⭐](https://github.com/AAOOII-RN/Wish_upon_a_star)
+1. [Bubble Generator 🧼🧼](https://github.com/AAOOII-RN/Bubble-Generator)
 
 # Future Projects
 1. A Day in Life as a Bee
