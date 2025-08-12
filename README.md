@@ -12,11 +12,3 @@
 1. [Pong in Love2d with customized bot 🏓🤖](https://github.com/AAOOII-RN/Pong_Love2d)
 1. [Wish upon a star ✨⭐](https://github.com/AAOOII-RN/Wish_upon_a_star)
 1. [Bubble Generator 🧼🧼](https://github.com/AAOOII-RN/Bubble-Generator)
-
-# Future Projects
-1. A Day in Life as a Bee
-2. Oh, Woe is Keyboard
-3. **H**elping **T**he **M**aker is **L**ove
-4. "A Game of Love" by hcsf visualized
-5. Nöbela lua library
-6. Bible Verse Generator Extension
