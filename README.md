@@ -1,7 +1,7 @@
 # 🎇✨Welcome to my page! ✨🎇
 - 📝I'm AAOOII-RN. You can call me AAOOII-RN, AAOOII, AOI, or RN. You can call me based on those options!
 - 🤗 I'm a newbie programmer. I learn by reading docs or watching tutorials.
-- 🖋 I'm currently learning Love2d.
+- 🖋 I'm currently learning Love2d and Raylib.
 - 🎯 My current goal is to participate in a game jam and submit a game.
 
 # Finished Projects
