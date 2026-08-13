@@ -4,7 +4,7 @@
 - 🖋 I'm currently learning Love2d and Raylib.
 - 🎯 My current goal is to participate in a game jam and submit a game.
 
-# Projects that I'm proud of! 🏆🥲
+<img width="1280" height="128" alt="Your paragraph text (1)" src="https://github.com/user-attachments/assets/07d821c4-12b2-4dda-99e0-0acbcfc7e9e8" />
 
 |🖼️ICON|ℹ️DESCRIPTION|
 |-------|--------|
