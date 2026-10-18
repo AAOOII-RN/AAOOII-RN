@@ -6,6 +6,7 @@
 - 🤗 I'm a **newbie** programmer. I learn by reading docs or watching tutorials.
 - 🖋 I'm currently learning [**Love2d**](https://love2d.org) and [**Raylib**](https://www.raylib.com).
 - 🎯 My current goal is to **participate multiple game jams** or **publish around a hundred games**!
+- 🟨 I like **gruvbox light** <3
 
 ---
 [<img width="1280" height="128" alt="Projects that I'm proud of!" src="https://github.com/user-attachments/assets/9860b054-eea4-4bf1-9be7-d02b0cefcfdb" />](https://www.youtube.com/watch?v=h0NG7DxV5iE)
@@ -16,3 +17,4 @@
 |[<img width="200" height="200" alt="Island Generator" src="https://github.com/user-attachments/assets/0b27af40-f305-446b-b492-3ee43e34b9fb" />](https://aaooii-rn.itch.io/island-generator) | An attempt to use other gradient noise rather than [Perlin](https://en.wikipedia.org/wiki/Perlin_noise). This noise generator first makes a group of irrational sines then finds the mean. It is kind of flawed but I'm still proud of it!|
 
 ###### P.S. The pictures have links you can click on! (no malware!)
+[![GitHub Streak](https://streak-stats.demolab.com?user=AAOOII-RN&hide_border=true&card_width=196&card_height=196&hide_total_contributions=true&hide_longest_streak=true)](https://git.io/streak-stats)
